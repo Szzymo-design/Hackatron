@@ -1,2 +1,8 @@
-# Hackatron
-uhhh
+Widzenie komputerowe klasy:
+papier
+szkło
+zmieszane
+plastik
+bio
+
+
